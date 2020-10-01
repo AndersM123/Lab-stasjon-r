@@ -1,0 +1,1 @@
+package lab_7_uke40_klasser_kvadrat;
