@@ -53,17 +53,33 @@ public class Oppgaver_kapittel_3 {
 }
 */
 
+//Oppgave 3
+	/*
 	public static void main(String[] args) {
+		String jtxt = showInputDialog("skriv et tall");
+		String atxt = showInputDialog("skriv et tall");
+		
+		int anne = Integer.parseInt (jtxt);
+		int jens = Integer.parseInt (atxt);
+		int nils;
+		if (anne > jens) {
+			nils = anne - jens;
+		}
+		else 
+			if (jens >= anne) {
+				nils = jens - anne;
+			}
+		else
+			nils = anne + jens;
+	}
+	// ?
+	*/
 
-		int i = 5;
-		int j = 10;
-		String s = "dat100";
-		boolean b = true;
-
-		System.out.println(i * j + i);
-		System.out.println(b && i > 5);
-		System.out.println(!b || j == 10);
-		System.out.println(s.substring(3, 5));
+//Oppgave 4
+	public static void main(String[] args) {
+		
+	
+		
 	}
 	
 	

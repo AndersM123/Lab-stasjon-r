@@ -2,7 +2,7 @@ import static javax.swing.JOptionPane.*;
 
 public class Oppgaver_kapittel_5 {
 
-//a)	
+//1)	
 	/*
 	public static void main(String[] args) {
 		int [] tabell = {1,3,4,7};
@@ -25,7 +25,7 @@ public class Oppgaver_kapittel_5 {
 	}
 */
 
-//b)
+//2)
 	/*
 	//sorter tabellen i synkende rekkefølge
 	public static void main(String[] args) {
